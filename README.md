@@ -16,3 +16,5 @@ CREATE TABLE IF NOT EXISTS books (
     PRIMARY KEY(id)
 );
 ```
+
+More examples and information for go-sql-driver/mysql package can be found here: https://github.com/go-sql-driver/mysql
